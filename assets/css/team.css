@@ -6,8 +6,11 @@
 }
 /*-- team --*/
 .team{
-	background:url(images/bg.jpg) no-repeat 0px 0px;
-	background-size:cover;
+	background:url(../images/index.jpg) no-repeat 0px 0px;
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .team-dot {
     background: url(images/dott.png)repeat 0px 0px;
